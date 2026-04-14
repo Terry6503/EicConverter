@@ -1,0 +1,4 @@
+1.把 EicConverter.exe 放到「eic\docnet\doc\[username]\DOCN\my_proj\」資料夾。
+2.在「eic\docnet\doc\[username]\DOCN\my_proj\」新增一個名為「bin」的資料夾。
+3.請將二代公文系統中的 .cab 檔案解壓縮，再把解壓縮出來的 .dll 檔案，放到步驟2的「bin」資料夾中。
+4.執行 EicConverter.exe，即可得到 .sdi 檔案轉出的 .rtf、.txt及部分.di檔。
